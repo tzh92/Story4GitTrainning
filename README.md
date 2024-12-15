@@ -1,2 +1,0 @@
-# story4GitTrainning
-使用故事接龙的形式辅助训练提升git技能
